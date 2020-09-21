@@ -1,9 +1,9 @@
 const FILES_TO_CACHE = [
   '/',
   '/index.html',
-  '/favicon.ico',
+  // '/favicon.ico',
   '/manifest.webmanifest',
-  '/style.css',
+  '/styles.css',
   '/index.js',
   '/db.js',
   '/icons/icon-192x192.png',
